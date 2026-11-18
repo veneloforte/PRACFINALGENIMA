@@ -1,0 +1,1 @@
+https://huggingface.co/veneloforte/sd-oldbook-lora
